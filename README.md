@@ -9,10 +9,15 @@ If a project is currently being worked on, the code will be published on the [pe
 
 <br>
 
-## What publicly viewable projects are there at the moment?
-At present, there are a total of 3 different projects,
-<br>each of which has a publicly accessible information sheet (repository).
-<br>These projects are as follows:
-- [Project JueK3y](https://github.com/JueK3y/Project-JueK3y)
-- [Project TypeError](https://github.com/JueK3y/Project-TypeError)
-- [Instagram Autoamted Commenting (completed)](https://github.com/JueK3y/IAC)
+## What projects are here at the moment?
+<br>Currently there are a total of 5 repositories here,
+<br>3 of them info sheets and the other 2 finished projects.
+<br>These are the following projects:
+- Information sheets
+  - This repository :) 
+  - [Project JueK3y](https://github.com/JueK3y/Project-JueK3y)
+  - [Project TypeError](https://github.com/JueK3y/Project-TypeError)
+
+- Finished Projects:
+  - [Instagram Autoamted Commenting](https://github.com/JueK3y/IAC)
+  - [Cloud Runner](https://github.com/JueK3y/Cloud-Runner)
