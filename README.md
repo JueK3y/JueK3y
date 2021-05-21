@@ -1,11 +1,11 @@
-# JueK3yOrg | JueK3y's business account
+# JueK3y's Organization - JueK3y's business account
 <br>
 
-## What is JueK3yOrg?
-_JueK3yOrg_ was created to better distinguish between public and private projects.
-<br>Various information about a particular project is usually displayed here.
-<br>The latest releases of a project are also published here.
-<br>The actual code, however, usually remains on the [private account](https://github.com/JueK3y).
+## What is this organization about?
+This organization was created to better distinguish between worked on and finished projects.
+If a project is currently being worked on, the code will be published on the [personal account](https://github.com/JueK3y-Prv)
+<br>and all information about it on the [business account](https://github.com/JueK3y).
+<br>Once a project is completed, the entire repository, including the code, is transferred to the business account.
 
 <br>
 
@@ -13,6 +13,6 @@ _JueK3yOrg_ was created to better distinguish between public and private project
 At present, there are a total of 3 different projects,
 <br>each of which has a publicly accessible information sheet (repository).
 <br>These projects are as follows:
-- [Project JueK3y](https://github.com/JueK3yOrg/Project-JueK3y)
-- [Project TypeError](https://github.com/JueK3yOrg/Project-TypeError)
-- [Instagram Autoamted Commenting (completed)](https://github.com/JueK3yOrg/IAC)
+- [Project JueK3y](https://github.com/JueK3y/Project-JueK3y)
+- [Project TypeError](https://github.com/JueK3y/Project-TypeError)
+- [Instagram Autoamted Commenting (completed)](https://github.com/JueK3y/IAC)
